@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MirrorMate (v.3)</string>
+    <string name="edit_message"><b>Type a thing:</b></string>
+    <string name="pair_now">Pair Now</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Testing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">That thing you wrote:</string>
+    <string name="title_pair_with_bluetooth">Pair With Bluetooth</string>
+    <string name="title_main_menu">Main Menu</string>
+    <string name="title_activity_main_menu">Mirror Mate</string>
+    <string name="title_show_map">Local Map</string>
+    <string name="title_activity_get_directions">Get Directions</string>
+    <string name="title_intro_screen">Intro Screen</string>
+    <string name="title_activity_map_fragment">MapFragment</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
